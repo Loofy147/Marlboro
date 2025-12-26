@@ -1,0 +1,6 @@
+# MNIST data files
+data/
+*.png
+
+# Python cache
+__pycache__/
